@@ -1,8 +1,0 @@
-org.wso2.carbon.identity.entitlement.endpoint.auth
-org.wso2.carbon.identity.entitlement.endpoint.exception
-org.wso2.carbon.identity.entitlement.endpoint.filter
-org.wso2.carbon.identity.entitlement.endpoint.impl
-org.wso2.carbon.identity.entitlement.endpoint.resources
-org.wso2.carbon.identity.entitlement.endpoint.resources.models
-org.wso2.carbon.identity.entitlement.endpoint.test
-org.wso2.carbon.identity.entitlement.endpoint.util
